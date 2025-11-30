@@ -1,0 +1,5 @@
+{
+  "name": "PronostIQ Live",
+  "description": "Assistant de paris sportifs en temps réel utilisant l'IA pour analyser les matchs, les formes d'équipe et fournir des pronostics basés sur des données réelles.",
+  "requestFramePermissions": []
+}
